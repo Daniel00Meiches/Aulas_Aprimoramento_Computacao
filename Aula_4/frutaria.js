@@ -14,4 +14,4 @@ function precoFruta(nome) {
 console.log(precoFruta("Maçã"));            // Saída: R$ 3,00
 console.log(precoFruta("Banana"));          // Saída: R$ 2,00
 console.log(precoFruta("Laranja"));         // Saída: R$ 2,50
-console.log(precoFruta("o cu do mauri"));   // Saída: Fruta não disponível na frutaria Benites
+console.log(precoFruta("o mauri"));   // Saída: Fruta não disponível na frutaria Benites
